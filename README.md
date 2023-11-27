@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div>
   <a href="https://github.com/ogustavobrandao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ogustavobrandao&show_icons=true&theme=tokyonight&include_all_commits=true"/>
